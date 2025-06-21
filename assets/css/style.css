@@ -1,0 +1,134 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+}
+
+/* ===============commmon============= */
+a{
+  text-decoration: none;
+}
+.main-content{
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: calc(100% - 48px);
+}
+
+.btn{
+  min-width: 118px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 2.45rem;
+background: #171100;
+}
+
+/* ==============header============ */
+.header{
+  background: #FFFCF4;
+}
+
+.body{
+  display: flex;
+  align-items: center;
+  padding: 3.6rem 0 6.5rem;
+}
+.img-logo{
+  /* margin-right: 51.2rem; */
+}
+
+.nav ul{
+  display: flex;
+}
+
+.nav ul a{
+  padding: 0 21px;
+}
+
+.nav {
+  margin-right: 7rem;
+  margin-left: auto;
+}
+
+nav a{
+  color: #5F5B53;
+font-size: 1.6rem;
+font-weight: 400;
+}
+li.active a,
+.nav a:hover{
+  color: #171100;
+font-size: 1.6rem;
+text-shadow: 1px 0 0 currentColor;
+}
+
+.btn-sign-up a{
+  color: #FFF;
+font-size: 1.6rem;
+font-weight: 600;
+width: 144px;
+border-radius: 24.5px;
+background: #171100;
+display: flex;
+justify-content: center;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
